@@ -18,3 +18,9 @@ main.yml in ./github/workflows:
 
 After committing to main branch:
 ![](screenshots/CI-workflow.png)
+
+<h2>CD Workflow</h2>
+
+Create GKE service account with secret key:
+![](screenshots/CD-gkesecretaccount.png)
+![](screenshots/CD-gkekey.png)
