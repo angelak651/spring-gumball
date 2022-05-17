@@ -10,3 +10,11 @@
 
 * Gradle 5.6
 * JDK 11
+
+<h2>CI Workflow</h2>
+
+main.yml in ./github/workflows:
+![](screenshots/CI-workflow1.png)
+
+After committing to main branch:
+![](screenshots/CI-workflow.png)
