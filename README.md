@@ -33,8 +33,8 @@ Create service account and secret key:
 Github secrets:
 ![](screenshots/CD-gitsecrets.png)
 
-Github release:
-![](screenshots/CD-release.png)
+Github publish release:
+![](screenshots/CD-publishrelease.png)
 
 Github actions:
 ![](screenshots/CD-gkebuild.png)
